@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I`m Violan, a Junior Software Engineer, Creative programmer and AI enthusiast.
+
+I have an obsession with Frontend design, Products that look effortless because someone sweated the details.
+I`m inspired by Apple`s approach to design, every pixel intentional, every interaction obvious, nothing there that doesnt need to be.
+I don`t just want to write code. I want to build scalable products that people enjoy using, interfaces that are clean, fast and quietly beautiful.
+ My north star: if a user has to think about how to use it, I haven't finished the job yet.
+The idea "IT JUST WORKS" is actually the hardest thing to build.
+
+When i`m not Coding, you can find me drinking an espresso, listening to music, playing video games and spending quality time in nature. 
